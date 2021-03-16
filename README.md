@@ -26,14 +26,19 @@ Spawn Shell https://netsec.ws/?p=337
 **Tools**
 _LinPEAS_
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+
 _LinEnum_
 https://github.com/rebootuser/LinEnum
+
 **Linux-Exploit-Suggester**
 https://github.com/mzet-/linux-exploit-suggester
+
 **Linux-Priv-Checker**
 https://github.com/sleventyeleven/linuxprivchecker
+
 **Exploits**
 https://www.exploit-db.com/
+
 **Machines**
 https://tryhackme.com/room/vulnversity
 https://tryhackme.com/room/cmess
@@ -41,4 +46,5 @@ https://tryhackme.com/room/lazyadmin
 https://tryhackme.com/room/anonymous
 https://tryhackme.com/room/tomghost
 https://tryhackme.com/room/convertmyvideo
+
 Thank You.
